@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Apple iPhone 11",
+        "price": 760,
+        "image": { "fields": { "file": { "url": "./images/products/iphone/iphone3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Apple iPhone 12 Pro",
+        "price": 810,
+        "image": { "fields": { "file": { "url": "./images/products/iphone/iphone6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Apple iPhone 12",
+        "price": 860,
+        "image": { "fields": { "file": { "url": "./images/products/iphone/iphone2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Apple iPhone SE",
+        "price": 280,
+        "image": { "fields": { "file": { "url": "./images/products/iphone/iphone4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Apple iPhone 11 Pro",
+        "price": 390,
+        "image": { "fields": { "file": { "url": "./images/products/iphone/iphone5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Samsung Galaxy",
+        "price": 410,
+        "image": { "fields": { "file": { "url": "./images/products/sumsung/samsung6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Apple iPhone XR",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/products/iphone/iphone1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Sony WH-CH510",
+        "price": 330,
+        "image": { "fields": { "file": { "url": "./images/products/headphone/headphone5.jpeg" } } }
+      }
+    }
+  ]
+}
